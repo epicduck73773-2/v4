@@ -3,6 +3,5 @@
     name: educational-website
     env: static
     runtime: static
-    plan: free
     startCommand: npm install && npm build && node server.js
     staticPublishPath: main
