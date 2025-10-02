@@ -4,3 +4,4 @@
     env: node
     plan: free
     startCommand: npm install && npm build && node server.js
+    staticPublishPath: main
